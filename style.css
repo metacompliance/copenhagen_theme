@@ -1223,7 +1223,7 @@ ul {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
-  align-items: stretch;
+  align-items: flex-start;
   box-sizing: border-box;
   margin: 0px -10px;
 }
