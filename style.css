@@ -1233,6 +1233,7 @@ ul {
   width: 50%;
   margin-bottom: 20px;
   padding: 0px 10px;
+  border-radius: 25px;
 }
 
 .content {
