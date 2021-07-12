@@ -1237,14 +1237,17 @@ ul {
 
 .content {
   color: #242424;
-  background-color: #1bbefe;
-  font-weight: 600;
+  background-color: #fff;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #0b1b22;
   text-align: left;
   box-sizing: border-box;
   height: 100%;
   padding: 10px;
   border-radius: 25px;
   box-shadow: 5px 5px 10px #ced0ce;
+  text-transform: capitalize;
 }
 
 .blocks-item-title {
