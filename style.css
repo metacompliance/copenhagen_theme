@@ -1244,7 +1244,7 @@ ul {
   height: 100%;
   padding: 10px;
   border-radius: 25px;
-  box-shadow: 5px 5px 10px;
+  box-shadow: 5px 5px 10px #ced0ce;
 }
 
 .blocks-item-title {
