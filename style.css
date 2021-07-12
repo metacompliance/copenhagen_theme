@@ -1245,6 +1245,10 @@ ul {
   padding: 10px;
 }
 
+.blocks-item-title {
+  text-align: center;
+}
+
 /***** Promoted articles *****/
 .promoted-articles {
   display: flex;
