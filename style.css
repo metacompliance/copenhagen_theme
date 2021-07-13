@@ -1225,6 +1225,7 @@ ul {
   justify-content: flex-start;
   align-items: flex-start;
   box-sizing: border-box;
+  padding: 10px;
   margin: 0px -10px;
 }
 
