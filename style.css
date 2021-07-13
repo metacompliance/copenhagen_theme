@@ -1230,9 +1230,10 @@ ul {
 
 .item {
   box-sizing: border-box;
-  width: 100%;
+  width: 50%;
   margin-bottom: 20px;
   padding: 0px 10px;
+  flex: 1;
 }
 
 .content {
