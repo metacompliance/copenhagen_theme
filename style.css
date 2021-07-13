@@ -1260,6 +1260,21 @@ ul {
   color: #4b88a2;
   text-decoration: none;
   padding: 1em 1.5em;
+
+}
+
+.item a:hover {
+  background-color: #ced0ce;
+  color: #fff
+  cursor: pointer;
+}
+
+.item a:active {
+  background-color: #0b1b22;
+}
+
+.item a:visited {
+  background-color: #ced0ce;
 }
 
 /***** Promoted articles *****/
