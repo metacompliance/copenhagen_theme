@@ -1248,8 +1248,8 @@ ul {
   height: 100%;
   padding: 10px;
   border-radius: 25px;
-  border: 1px solid #ced0ce;
-  box-shadow: 5px 5px 10px #ced0ce;
+  border: 1px solid #F2F2F2;
+  box-shadow: 5px 5px 10px #F2F2F2;
   text-transform: capitalize;
 }
 
@@ -1276,7 +1276,7 @@ ul {
 }
 
 .item a:visited {
-  background-color: #ced0ce;
+  background-color: #F2F2F2;
 }
 
 /***** Promoted articles *****/
