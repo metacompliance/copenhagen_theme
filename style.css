@@ -1238,6 +1238,7 @@ ul {
 }
 
 .content {
+  font-family: 'Roboto', sans-serif;
   color: #242424;
   background-color: #fff;
   font-weight: 400;
@@ -4782,4 +4783,16 @@ html[dir="rtl"] .notification-left-aligned {
 
 .dropdown-chevron-icon {
   vertical-align: middle;
+}
+
+/** Custom Web Font **/
+
+/** Roboto Regular **/
+
+@font-face {
+  font-family: 'Roboto';
+  src: local('roboto-regular');
+  src: url('$assets-Roboto-Regular-webfont.woff') format('woff'), 
+  font-weight: normal;
+  font-style: normal; 
 }
