@@ -1265,7 +1265,7 @@ ul {
 
 .item a:hover {
   background-color: #ced0ce;
-  color: #fff
+  color: white;
   cursor: pointer;
 }
 
