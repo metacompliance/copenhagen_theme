@@ -1247,7 +1247,7 @@ ul {
   height: 100%;
   padding: 10px;
   border-radius: 25px;
-  border: 4px dotted #4b88a2;
+  border: 4px solid #4b88a2;
   box-shadow: 5px 5px 10px #ced0ce;
   text-transform: capitalize;
 }
