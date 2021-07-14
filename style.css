@@ -1238,7 +1238,8 @@ ul {
 }
 
 .content {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 100;
   color: #242424;
   background-color: #fff;
   font-weight: 400;
