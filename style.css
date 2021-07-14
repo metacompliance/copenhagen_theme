@@ -204,7 +204,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $heading_font;
+  /** Changng this to Poppins
+  font-family: $heading_font; **/
+  font-family: 'Poppins', sans-serif;
   margin-top: 0;
 }
 
