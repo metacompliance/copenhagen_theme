@@ -189,7 +189,9 @@ template {
 body {
   background-color: $background_color;
   color: $text_color;
-  font-family: $text_font;
+  /** Changing this
+  font-family: $text_font; **/
+  font-family: 'Poppins', sans-serif;
   font-size: 15px;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
