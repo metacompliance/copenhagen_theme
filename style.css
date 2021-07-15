@@ -969,6 +969,7 @@ ul {
 }
 
 .search input[type="search"] {
+  font-size: 20px;
   border: 1px solid #ddd;
   border-radius: 30px;
   box-sizing: border-box;
