@@ -968,12 +968,12 @@ ul {
   position: relative;
 }
 
-.search input[type="search"] {
-  border: 1px solid #ddd;
+.search input[type="Start typing here..."] {
+  border: 1px solid #6599CC;
   border-radius: 30px;
   box-sizing: border-box;
-  color: #666;
-  height: 40px;
+  color: #fff;
+  height: 60px;
   padding-left: 40px;
   padding-right: 20px;
   -webkit-appearance: none;
