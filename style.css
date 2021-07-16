@@ -966,10 +966,10 @@ ul {
 /***** Search field *****/
 .search {
   position: relative;
+  font-size: 16px;
 }
 
 .search input[type="search"] {
-  font-size: 16px;
   border: 1px solid #ddd;
   border-radius: 30px;
   box-sizing: border-box;
@@ -988,7 +988,6 @@ ul {
 
 .search input[type="search"]:focus {
   border: 2px solid #6599CC;
-  font-size: 16px;
   color: #555;
 }
 
