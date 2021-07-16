@@ -4820,9 +4820,16 @@ html[dir="rtl"] .notification-left-aligned {
 /** CSS for Welcome text **/
 
 .intro-title {
+  position: relative;
+  top: 33%;
+}
+
+/** Not working particulalry well **/
+
+/** .intro-title {
   margin-top: 40px;
   margin-bottom: auto; /** was 16px; **/
-  font-size: 24px;
+ /** font-size: 24px;
   font-weight: 300;
   line-height: 1.1;
   color: #00BED6;
@@ -4840,4 +4847,4 @@ html[dir="rtl"] .notification-left-aligned {
   margin-bottom: 48px;
   font-size: 32px;
   }
- }
+ } **/
