@@ -4805,3 +4805,14 @@ html[dir="rtl"] .notification-left-aligned {
   font-weight: normal;
   font-style: normal; 
 }
+
+/***** CSS for Callout - Not Final *****/
+
+.callout {
+  background-color: #fcf4b9;
+  padding: 10px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
