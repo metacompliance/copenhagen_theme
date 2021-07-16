@@ -4822,6 +4822,11 @@ html[dir="rtl"] .notification-left-aligned {
 .intro-title {
   position: relative;
   top: 33%;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 1.1;
+  color: #00BED6;
+  text-align: center;
 }
 
 /** Not working particulalry well **/
