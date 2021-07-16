@@ -904,7 +904,8 @@ ul {
 
 /***** Footer *****/
 .footer {
-  border-top: 1px solid #ced0ce; /** was #ddd **/
+  border-top: 1px solid #fff; /** was #ddd **/
+  background-color: #ced0ce;
   margin-top: 60px;
   padding: 30px 0;
 }
