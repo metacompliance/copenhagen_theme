@@ -4820,7 +4820,8 @@ html[dir="rtl"] .notification-left-aligned {
 /** CSS for Welcome text **/
 
 .intro-title {
-  margin-bottom: 16px;
+  margin-top: 40px;
+  margin-bottom: auto; /** was 16px; **/
   font-size: 24px;
   font-weight: 300;
   line-height: 1.1;
