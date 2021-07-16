@@ -641,8 +641,6 @@ ul {
 
 /***** Header *****/
 .header {
-  background-color: #ced0ce;
-  color: #fff;
   max-width: 1160px;
   margin: 0 auto;
   padding: 0 5%;
