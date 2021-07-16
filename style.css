@@ -912,7 +912,8 @@ ul {
 }
 
 .footer a {
-  color: lighten($text_color, 20%);
+  /** Was originally -> color: lighten($text_color, 20%); **/
+  color: #fff;
 }
 
 .footer-inner {
