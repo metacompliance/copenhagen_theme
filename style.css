@@ -948,14 +948,14 @@ ul {
 .breadcrumbs li {
   color: lighten($text_color, 20%);
   display: inline;
-  font-size: 13px;
+  font-size: 16px;
   max-width: 450px;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
 .breadcrumbs li + li::before {
-  content: ">";
+  content: ">>";
   margin: 0 4px;
 }
 
